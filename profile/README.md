@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome 👋
+
+![Visitor Count](https://profile-counter.glitch.me/docs-fitcloudpro/count.svg)
 
 <!--
 
